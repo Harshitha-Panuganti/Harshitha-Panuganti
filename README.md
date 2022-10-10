@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Harshitha</h1>
+<h1 align="center">Hi there👋, I'm Harshitha</h1>
 
 - 🌱 I’m currently learning **React and Node.JS** <br/>
       I'm Looking for a Job FULLSTACK Developer
