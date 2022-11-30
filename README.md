@@ -1,7 +1,7 @@
 <h1 align="center">Hi there👋, I'm Harshitha</h1>
 
-- 🌱 I’m currently learning **React and Node.JS** <br/>
-      I'm Looking for a Job FULLSTACK Developer
+- 🌱 I’m currently learning **React** <br/>
+      I'm Looking for a FULLSTACK Developer , Good Knowledge in Frontend language such as Html, css, javascript, React.js
 
 <p align="left">
 </p>
