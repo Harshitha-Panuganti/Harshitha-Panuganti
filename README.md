@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning **React** <br/>
       I'm Looking for a Fullstack Developer role <br/>
-      I have Good Knowledge in Frontend language such as Html, css, javascript, React.js
+      I have Good Knowledge in Frontend language such as Html, css, javascript, React.js*
 
 <p align="left">
 </p>
