@@ -1,10 +1,9 @@
 <h1 align="left">Hi there👋, I'm Harshitha</h1>
 
-- 🌱 Hey all I'm Harshitha Software Engineer at Zensar Technologies Presently I'm looking for Job I have good Knowledge in Frontend Technologies Like HTML,CSS,JS,           React Js* and also Backend Technologies Python, ORACLE SQL, Node.js and My SQL.
-      I'm a Person who always interest to learn new technologies and I have good problem solving skills.
--     I’m currently learning **React** <br/>
-      I'm Looking for a Fullstack Developer role <br/>
-      
+- 🌱 Hey all I'm Harshitha Software Engineer at Zensar Technologies and TA at Nxtwave.
+-   I have good Knowledge in Frontend Technologies Like HTML,CSS,JS,React Js* and also Backend Technologies Python, ORACLE SQL, Node.js
+      and My  SQL. I’m currently learning **React** and Looking for a Fullstack Developer role. <br/>
+     
 <p align="left">
 </p>
 
