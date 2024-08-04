@@ -8,7 +8,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" background-color="yellow" alt="Power BI" width="40" height="40" style="filter: brightness(0) saturate(100%) invert(81%) sepia(75%) saturate(1951%) hue-rotate(4deg) brightness(108%) contrast(101%);"/>
+    <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" background-color="#FFFF00" alt="Power BI" width="40" height="40" style="filter: brightness(0) saturate(100%) invert(81%) sepia(75%) saturate(1951%) hue-rotate(4deg) brightness(108%) contrast(101%);"/>
   </a>
  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/microsoft-excel-2013.svg" alt="Excel" width="40" height="40"/>
