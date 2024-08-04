@@ -11,7 +11,7 @@
     <img src="https://download.logo.wine/logo/Power_BI/Power_BI-Logo.wine.png" alt="Power BI" width="40" height="40"/>
   </a>
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
-    <img src="https://seeklogo.com/images/M/microsoft-sql-server-logo-96AF49E0B1-seeklogo.com.png" alt="SQL" width="40" height="40"/>
+    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL" width="40" height="40"/>
   </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
