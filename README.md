@@ -4,7 +4,7 @@
 
 🔭 I’m currently working with Power BI, SQL, Excel, Python, and Statistics.
 
-👨‍💻 All of my projects are available at https://github.com/alinasahoo
+👨‍💻 All of my projects are available at [https://github.com/alinasahoo](https://github.com/Harshitha-Panuganti?tab=repositories)
      
 <p align="left">
 </p>
