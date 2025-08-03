@@ -1,6 +1,10 @@
 <h1 align="left">Hi there👋, I'm Harshitha</h1>
 
-- 🌱 Hey all I'm Harshitha 
+🌱 Hey all I'm Harshitha 
+
+🔭 I’m currently working with Power BI, SQL, Excel, Python, and Statistics.
+
+👨‍💻 All of my projects are available at https://github.com/alinasahoo
      
 <p align="left">
 </p>
